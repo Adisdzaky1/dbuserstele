@@ -1,0 +1,4 @@
+{
+  "users": [{ "id": "123456789", "username": "johndoe", "joined_at": "..." }],
+  "transactions": [{ "user_id": "...", "produk": "VPS Standard", "nominal": 20000, ... }]
+}
